@@ -1,1 +1,7 @@
 .DS*
+__pycache__/
+.pytest_cache/
+.venv/
+.venv-treeple/
+_paper_cache/
+ds*
